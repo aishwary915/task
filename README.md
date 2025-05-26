@@ -5,7 +5,7 @@ This project sets up a relational database schema for a nursing training institu
 
 ---
 
-## 📦 Contents
+## Contents
 
 - `nursing_training_schema.sql` - SQL script to create the entire schema
 - `hospital_inserts.sql` - SQL script to populate the `Hospitals` table from the PMC dataset
@@ -15,7 +15,7 @@ This project sets up a relational database schema for a nursing training institu
 
 ---
 
-## 🗃️ Database Schema Overview
+## Database Schema Overview
 
 The schema supports:
 
@@ -27,7 +27,7 @@ The schema supports:
 
 ---
 
-## 🏗️ Tables
+## Tables
 
 Key tables include:
 
@@ -46,7 +46,7 @@ Key tables include:
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 ### 1. Import the Schema
 
@@ -76,12 +76,12 @@ Use the included PNG file or reverse engineer it using MySQL Workbench.
 
 ---
 
-## 📊 Data Source
+## Data Source
 
 [Pune Municipal Corporation Hospital Dataset](https://www.kaggle.com/datasets/prasad22/pmc-hospital-infrastructure/data)
 
 ---
 
-## 📝 License
+## License
 
 This project is for educational purposes only. Data is publicly available under Kaggle's dataset usage terms.
